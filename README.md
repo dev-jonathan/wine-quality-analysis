@@ -1,2 +1,2 @@
 # wine-quality-analysis
- projeto de análise de qualidade de vinhos portugueses. O projeto utiliza técnicas de pré-processamento de dados em Python.
+projeto de análise de qualidade de vinhos portugueses, baseado em dados do UCI Machine Learning Repository. O projeto utiliza técnicas de pré-processamento de dados em Python, incluindo normalização, padronização, transformação e binarização, com o auxílio dos pacotes Pandas e SKLearn. Além disso, realiza visualizações de dados por meio de histogramas, gráficos de densidades e outros, utilizando NumPy e Matplotlib. O objetivo é demonstrar as operações realizadas nos dados e na geração de gráficos, como histogramas, para avaliar a qualidade dos vinhos
